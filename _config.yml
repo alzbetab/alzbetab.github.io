@@ -21,7 +21,7 @@ repository               : "alzbetab/alzbetab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "AB_profilepic1_flipped.png"
   name             : "Alzbeta Bartova"
   pronouns         : # example: "she/her"  
   bio              : "social scientist"
